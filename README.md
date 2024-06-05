@@ -15,6 +15,7 @@ This Python script simulates a simple slot machine game where players can deposi
 
 - Python 3.x
 
+
 ## How to Run
 
 1. Ensure you have Python installed on your machine.
@@ -69,6 +70,11 @@ You won on lines
 Current Balance is $80
 Press enter to spin (q to quit).
 
+```
+
+## Contact
+
+For any questions or comments, please contact the project maintainer.
 
 
 
